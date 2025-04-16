@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! Eu sou Stefany Marinho </h2>
+<h2 align="center">Hi 👋! Eu sou Stefany Marinho </h2>
 
 ###
 
