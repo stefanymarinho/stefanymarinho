@@ -2,7 +2,7 @@
 
 ###
 
-Cursando Bacharelado em Ciência da Computação (5º Periodo) na UNIFG.
+<p align="center"> Cursando Bacharelado em Ciência da Computação (5º Periodo) na UNIFG.
 
 
 ###
